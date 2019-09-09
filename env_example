@@ -73,7 +73,7 @@ LETSENCRYPT_EMAIL=psalido@gmail.com
 #
 # This option should be used when backing up using the script in the repo:
 # https://github.com/evertramos/docker-wordpress-backup
-#BACKUP_PATH_NAME=/backup
+#BACKUP_PATH_NAME=./data/backup
 
 #
 # Crontab Rules
